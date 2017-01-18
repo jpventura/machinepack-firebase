@@ -13,16 +13,16 @@
   "author": "Nile Frater",
   "license": "MIT",
   "dependencies": {
-    "JSON": "^1.0.0",
+    "JSON": "1.0.0",
     "firebase": "^2.2.3",
-    "machine": "^3.0.0"
+    "machine": "12.4.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/nilefrater/machinepack-firebase.git"
   },
   "devDependencies": {
-    "test-machinepack-mocha": "^0.2.2"
+    "test-machinepack-mocha": "2.1.7"
   },
   "machinepack": {
     "iconSrc": "https://s3-us-west-1.amazonaws.com/machinepack-icons/machinepack_firebase.png",
